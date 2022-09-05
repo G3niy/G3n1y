@@ -1,2 +1,2 @@
-# G3n1y
+# MathAlg
 Math of Computers
